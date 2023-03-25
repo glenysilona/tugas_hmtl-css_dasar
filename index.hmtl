@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<hmtl lang="en">
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Web Profile</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+    <section>
+        <!-- Navigation-->
+        <nav>
+            <a href="a" class="Logo"> Contoh Web Profile</a>
+            <!--menu-->
+            <ul>
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Skill</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="detail"></div>
+        <h1>Hallo Semua</h1>
+        <p>Kenalin nih nama ku Glenys Ilona Sesilia Pinem </p>
+        <br> Saya adalah seorang mahasiswi di salah satu perguruan tinggi negeri yang ada di Batam,yaitu Politeknik Negeri Batam. 
+        <p>saya yaitu Informatika. Saya sudah kuliah Semester 4. Saya sangat berminat untuk menguasai front-end developer</p>
+        <p>saya sudah terbiasa dalam mengerjakan proyek bersama tim. tetapi, saya masih kurang menguasainya.</p>
+        <p> oleh karena itu, saya mendaftar program Web Deveploment di mitra Infinte Learning. Saya harap, dengan mengikuti program Web Deveploment di mitra Infinte Learning ini, saya dapat cukup menguasainya untuk terjun ke dalam magang maupun dunia kerja nantinya.</p>
+    </div>
+    <!--Picture-->
+    <div class="images">
+    <img alt="images" src="images/glenys.jpg" class="girl">
+    </div>
+    </section>
+
+    <!--Skill-->
+    <div class="Skill">
+        <div class="skill-desc">
+            <p>SKILL</p>
+            <p>dikatakan bahwa makhluk satu ini tidak memiliki skills yang dibanggakan </p>
+        </div>
+    </div>
+    
+    <!--footer-->
+    <footer>
+        <p>want to know more deeply with me?</p>
+        <p> Aku sangat menyukai pria yang ganteng dan kaya, soalnya saya tidak tau diri</p>
+    <div class="social-icon">
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-whatsapp"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+    </footer>
+    </div>
+</body>
+</html>
